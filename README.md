@@ -2,7 +2,7 @@
 
 Este dashboard de People Analytics foi desenvolvido para o monitoramento estratégico de capital humano em nível executivo. Projetado com foco em UX/UI Dark Mode, ele permite uma análise confortável de grandes volumes de dados, facilitando a identificação de padrões de rotatividade e engajamento.
 
-Link do Dashboard Live: [SEU-LINK-AQUI]
+Link do Dashboard Live: https://people-analytics-dashboard-delta.vercel.app/
 
 # Por que People Analytics?
 Em um cenário corporativo competitivo, a retenção de talentos é uma métrica de sobrevivência financeira. Este painel transforma dados brutos em decisões:
